@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+
+# Debug logs
+npm-debug.log
+
+# Practice / unwanted folders
+aasigments and projects by sheryinas/
+frontend-projects/
+HTML-documentation/
+javascript/
+quiz-2_files/
+
+# Files
+quiz-2.html
+sheriyans cohort 3.0 syllabus.txt
+Sheriyans-social-media-tags.txt
+
+# npm files
+package-lock.json
+
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+*.svg
