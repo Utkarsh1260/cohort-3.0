@@ -198,3 +198,24 @@ It is deployed publicly using GitHub Pages.
 * Project Folder: https://github.com/Utkarsh1260/frontend-projects/tree/main/twoleaf.com
 
 ---
+# Task Manager application
+
+...
+
+### 🔗 Links
+
+* Live Demo: https://utkarsh1260.github.io/frontend-projects/task_manager_application_task_7/
+* Project Folder: https://github.com/Utkarsh1260/frontend-projects/tree/main/task_manager_application_task_7
+
+---
+---
+# Fintrack pro
+
+...
+
+### 🔗 Links
+
+* Live Demo: https://utkarsh1260.github.io/frontend-projects/fintrack_pro_task_8/
+* Project Folder: https://github.com/Utkarsh1260/frontend-projects/tree/main/fintrack_pro_task_8
+
+---
